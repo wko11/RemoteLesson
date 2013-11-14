@@ -1,0 +1,10 @@
+Git Workflow
+
+1. Branch 
+	git checkout -b <branchname> 
+2. Edit
+3. Commit
+	git add <filename>
+	git commit -m "commit message"
+(2/3 repeat as many times as necessary)
+4. Merge
