@@ -1,7 +1,0 @@
-At the end of this tutorial, students should be able to:
-
-- Diagram the relationship between local and remote repositories.
-
-- Describe the commands necessary to link local and remote repositories.
-
-- List the steps taken when collaborating via a central remote repository.  

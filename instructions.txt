@@ -1,5 +1,0 @@
-Collaborative Workflow Exercise
-
-(optional) Fetch/merge the latest version of Christina's repository to get the notes about workflow + related commands.  
-
-Create a document to add to the "participants" folder, using the steps described in "workflow.txt", then push to your remote (origin) and submit a pull request

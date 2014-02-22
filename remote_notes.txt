@@ -1,0 +1,11 @@
+Creating a remote repository:
+- either fork an existing repo on github (populates your fork when created, allows you to send pull requests to original)
+- create a repository from scratch (respositories tab > new)
+
+Creating a local repository:
+- use $git init
+- clone a remote repository - this will create + initalize a local copy of the remote
+
+Linking a local/remote:
+- use $git add remote (name) (location-https)
+- cloning a remote repository will automatically link the local clone + remote
