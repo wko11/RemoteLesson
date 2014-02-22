@@ -1,0 +1,10 @@
+What are the two ways to create an online repository?
+
+
+What are the two commands to create a repository locally?
+
+
+What are the two ways to link a local/remote?  
+
+
+
