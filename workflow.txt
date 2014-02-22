@@ -1,0 +1,19 @@
+Git Workflow (now with collaboration!)
+
+0. Fetch/Pull commits from source repository
+	git fetch <repo name> <branch name>
+	git merge FETCH_HEAD
+
+	git pull <repo name> <branch name>
+
+1. Branch 
+	git checkout -b <branchname> 
+2. Edit
+3. Commit
+	git add <filename>
+	git commit -m "commit message"
+(2/3 repeat as many times as necessary)
+
+4a. Push changes to your fork (origin)
+	git push <destination name> <branch name>
+4b. On GitHub, submit a pull request
